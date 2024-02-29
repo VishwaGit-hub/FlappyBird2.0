@@ -25,7 +25,7 @@ This project is a recreation of the classic Flappy Bird game using Unity, provid
 
 ## Screenshots
 
-
+![Gameplay Screenshot](FlappyBird.png)
 
 
 ## Technologies Used
